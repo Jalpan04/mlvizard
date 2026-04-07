@@ -4,11 +4,18 @@ __pycache__/
 *$py.class
 venv/
 .env
+/backend/tmp_uploads/
+/backend/saved_models/
 
 # Node.js
 node_modules/
 dist/
 .DS_Store
+
+# Logs and outputs
+api_out.txt
+test_out.txt
+*.log
 
 # IDEs
 .vscode/
